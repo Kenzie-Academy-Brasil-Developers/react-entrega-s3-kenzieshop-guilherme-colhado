@@ -1,0 +1,22 @@
+[
+    {
+        "img": "https://m.media-amazon.com/images/I/51Xm8Jo9zdL._AC_SX679_.jpg",
+        "nome": "Motorola Moto G20",
+        "preco": "R$ 1.349,00"
+    },
+    {
+        "img": "https://m.media-amazon.com/images/I/61aICgk4UrS._AC_SX679_.jpg",
+        "nome": "Samsung Galaxy A12",
+        "preco": "R$ 1.299,00"
+    },
+    {
+        "img": "https://m.media-amazon.com/images/I/61uU1icIPTL._AC_SX679_.jpg",
+        "nome": "Poco M4 Pro",
+        "preco": "R$ 1.515,00"
+    },
+    {
+        "img": "https://m.media-amazon.com/images/I/61pOZ7mAn2S._AC_SX679_.jpg",
+        "nome": "Xiaomi Redmi Note 10S",
+        "preco": "R$ 1.337,00"
+    }    
+]
